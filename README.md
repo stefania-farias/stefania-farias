@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Stefania!
 
-<!--
-**stefania-farias/stefania-farias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student from Brazil interested in science, technology and research.
 
-Here are some ideas to get you started:
+I enjoy learning by turning ideas and academic interests into projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently exploring
+
+- Python and programming
+- Data analysis and visualization
+- Mathematics and science
+- Scientific research
+
+## Projects
+
+I'm currently building my first projects.
