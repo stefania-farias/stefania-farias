@@ -1,6 +1,6 @@
 # Hi, I'm Stefania!
 
-I am a high school student, interested in science, technology, engineering, and mathematics (STEM)
+I am a high school student, interested in science, technology, engineering, and mathematics (STEM).
 
 ## Currently exploring
 
