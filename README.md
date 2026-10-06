@@ -1,15 +1,13 @@
 # Hi, I'm Stefania!
 
-I'm a high school student from Brazil interested in science, technology and research.
-
-I enjoy learning by turning ideas and academic interests into projects.
+I am a high school student, interested in science, technology, engineering, and mathematics (STEM)
 
 ## Currently exploring
 
-- Python and programming
-- Data analysis and visualization
-- Mathematics and science
-- Scientific research
+- Knowledge Olympiads
+- Logic in philosophy, science, and everyday life
+- Basic Chemistry (Chemistry in motion)
+- Superintelligence and its implications
 
 ## Projects
 
